@@ -220,9 +220,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Harsh Singh**
-- GitHub: [@mewillsh](https://github.com/mewillsh)
-- LinkedIn: [@harsh-singh](https://www.linkedin.com/in/harsh-singh-3505961b2/)
+**Sahil Mane**
+- GitHub: [@sahil](https://github.com/sahilmaneweb)
 
 ## 🙏 Acknowledgments
 
